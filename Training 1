@@ -1,0 +1,8 @@
+// Update Array//
+public class solution{
+public class sortArray{
+       publiv static void main(String[] args){
+              int num[]=new int[]{5,55,18,2,3,25}
+       }
+}      
+}       
